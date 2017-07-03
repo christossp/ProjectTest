@@ -1,3 +1,5 @@
-<html>
+<?php 
 
-</html>
+	include_once('newapp.php');
+
+?>
