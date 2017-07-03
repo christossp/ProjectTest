@@ -2,8 +2,5 @@
 
 	include_once('newapp.php');
 	
-	
-	
-	
 
 ?>
