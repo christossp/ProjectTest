@@ -1,5 +1,0 @@
-<?php 
-
-	include_once('newapp.php');
-	
-?>
